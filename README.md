@@ -1,13 +1,12 @@
 # VerificaHotspot
 
-Aplicativo Web desenvolvido com HTML, CSS, JavaScript e Tailwind CSS para ver os principais métodos de visualizar os dispositivos conectados no seu hotspot mobile no Android.
+Aplicativo Web desenvolvido com HTML, CSS e JavaScript para ver os principais métodos de visualizar os dispositivos conectados no seu hotspot mobile no Android.
 
 ## 🚀 Tecnologias Utilizadas
 
 - **HTML5** - Estrutura da aplicação
-- **CSS3** - Estilização customizada
+- **CSS3** - Estilização customizada com design moderno
 - **JavaScript** - Funcionalidades interativas
-- **Tailwind CSS** - Framework CSS para estilização rápida
 
 ## 📱 Funcionalidades
 
