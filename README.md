@@ -38,6 +38,9 @@ VerificaHotspot/
 └── README.md       # Documentação
 ```
 
+## 📸 Screenshot
+<img src="./520314315-dfb0ee29-d52b-441c-b5fe-298b814a062c.png">
+
 ## 📝 Licença
 
 Desenvolvido para o componente LPC.
